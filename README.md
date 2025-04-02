@@ -1,23 +1,20 @@
-# playwright-bdd-example
+# playBdd
 
-Example project that uses [playwright-bdd](https://github.com/vitalets/playwright-bdd) to run BDD tests.
-
-> [!IMPORTANT]
-> If you are using [Yarn Plug'n'Play](https://yarnpkg.com/features/pnp), please check out [yarn-pnp](https://github.com/vitalets/playwright-bdd-example/tree/yarn-pnp) branch. 
+Example project that uses [playBdd](https://github.com/agrasso-c4w/playBdd) to run BDD tests.
 
 ## How to report a bug
 
-1. [Fork](https://github.com/vitalets/playwright-bdd-example/fork) the repo!
+1. [Fork](https://github.com/agrasso-c4w/playBdd/fork) the repo!
 2. Clone it to your local machine
 
    ```
-   git clone https://github.com/YOUR_GITHUB_USERNAME/playwright-bdd-example.git
+   git clone https://github.com/YOUR_GITHUB_USERNAME/playBdd.git
    ```
 
-3. Change directory to `playwright-bdd-example`
+3. Change directory to `playBdd`
 
    ```
-   cd playwright-bdd-example
+   cd playBdd
    ```
 
 4. Install dependencies
@@ -50,7 +47,7 @@ Example project that uses [playwright-bdd](https://github.com/vitalets/playwrigh
 8. Commit and push changes
    ```
    git add .
-   git commit -m'repro for playwright-bdd issue xxx'
+   git commit -m'repro for playBdd issue xxx'
    git push
    ```
-9. [Open a pull-request](https://github.com/vitalets/playwright-bdd-example/pulls) and share the link
+9. [Open a pull-request](https://github.com/agrasso-c4w/playBdd/pulls) and share the link
