@@ -68,6 +68,7 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: gh-pages
-          folder: playwright-report
+          folder: playwright-report/
+          target-folder: /
           clean: true
           token: ${{ secrets.GITHUB_TOKEN }}
